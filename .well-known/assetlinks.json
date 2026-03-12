@@ -1,10 +1,14 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.valn_ilyo.twa",
-       "sha256_cert_fingerprints": ["CE:4E:78:52:04:36:33:99:30:97:7D:50:E6:BA:F0:99:73:8F:A2:68:FA:F5:FA:F4:4C:B8:6E:65:58:82:9C:07"]
-      }
-    }]
-
-    
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.valn_ilyo.twa",
+      "sha256_cert_fingerprints": [
+        "D9:43:B6:72:88:FD:7D:B4:60:B1:C5:5E:9A:56:1F:5F:DE:19:49:44:39:0C:E2:79:85:B3:0D:61:59:E6:CA:5C"
+      ]
+    }
+  }
+]
