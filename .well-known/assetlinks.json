@@ -1,0 +1,10 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.valn_ilyo.twa",
+       "sha256_cert_fingerprints": ["CE:4E:78:52:04:36:33:99:30:97:7D:50:E6:BA:F0:99:73:8F:A2:68:FA:F5:FA:F4:4C:B8:6E:65:58:82:9C:07"]
+      }
+    }]
+
+    
